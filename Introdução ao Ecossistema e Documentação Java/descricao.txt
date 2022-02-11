@@ -1,0 +1,3 @@
+Primeiro encontro com a linguagem java.
+Criação do primeiro projeto em java.
+Criação e compreensão do JavaDoc como ferramenta de descrição da aplicação.
