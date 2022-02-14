@@ -1,0 +1,5 @@
+Dominando IDEs Java
+	* Instalando o JDK zulo
+	* Instalando IDES Eclipse e Intellij
+	* Criando o primeiro projeto em um editor de texto qualque
+	* Criando o primeiro projeto usando uma IDE
