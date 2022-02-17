@@ -1,0 +1,4 @@
+Variáveis, Tipos de Dados e Operadores Matemáticos em Java
+	*Conceituação e criação: criamos nosso primeiro projeto.
+	*Tipos de dados: entendemos a importancia de explicitar os dados
+	* Operadores Aritméticos: compriendemos os operadoreses aritmédicos e suas precedências
