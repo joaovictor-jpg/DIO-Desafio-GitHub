@@ -1,0 +1,7 @@
+Estruturas de Repetição e Arrays em Java:
+	Aprendemos a trabalhar com laços de repetição e arrays com diversos exercícios praticos
+		*Apresentação e visão Geraç
+		*Exercícios Resolvidos: Estruturas de Repetição
+		*Exercícios Resolvidos: Array
+
+materia de apoio: https://drive.google.com/file/d/1xNzZ3dQMATP11Dk3HWsAWdEuJfVDpnN_/view
