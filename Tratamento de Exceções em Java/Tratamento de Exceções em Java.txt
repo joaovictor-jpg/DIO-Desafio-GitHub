@@ -1,0 +1,8 @@
+Tratamento de Exceções em Java
+
+	Aprendemos o tratamento de erros e sua importancia...
+		Conhecemos tbm o try, catch e finally
+			* Apresentação e visão geral
+			* Unchecked exception
+			* Checked Exception
+			* Exception Personalizada
